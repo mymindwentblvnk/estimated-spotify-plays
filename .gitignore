@@ -1,3 +1,7 @@
+# User
+spotify_settings.py
+.cache-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
